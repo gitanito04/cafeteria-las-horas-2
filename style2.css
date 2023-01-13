@@ -1,0 +1,31 @@
+div.lacarta{
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+}
+
+body{
+    background-color: burlywood;
+}
+
+div.lacarta2{
+   color: brown;
+   text-align: left;
+}
+
+h1.carta{
+    color: brown;
+    font-weight: bold;
+}
+
+ul.plato{
+    list-style-type: circle;
+}
+
+ol.roman{
+    list-style-type: upper-roman;
+}
+
+ol.segplato{
+    list-style-type: lower-latin;
+}
